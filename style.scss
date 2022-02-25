@@ -27,6 +27,7 @@ body {
   padding: 3rem;
   border-radius: 10px;
   text-align: center;
+
   header {
     color: var(--neon-Green);
     letter-spacing: 5px;
@@ -54,6 +55,7 @@ body {
     border-radius: 50%;
     display: grid;
     place-items: center;
+
     cursor: pointer;
     &.active {
       box-shadow: 0 0 50px var(--neon-Green);
