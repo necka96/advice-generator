@@ -58,7 +58,7 @@ body {
     transition: transform 300ms ease-in 0s;
     cursor: pointer;
     &:hover {
-      transform: rotate(90deg);
+      transform: rotate(360deg);
     }
     &.active {
       box-shadow: 0 0 50px var(--neon-Green);
